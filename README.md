@@ -6,3 +6,5 @@ cmake sample and usage
 * project
 * add_executable
 * message
+* set
+* unset
