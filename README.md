@@ -8,3 +8,5 @@ cmake sample and usage
 * message
 * set
 * unset
+* aux_source_directory
+* include_directories

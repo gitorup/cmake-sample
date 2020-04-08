@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/sample.dir/app/sample.c.o CMakeFiles/sample.dir/src/common.c.o  -o sample -rdynamic 
