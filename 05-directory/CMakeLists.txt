@@ -15,7 +15,5 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 aux_source_directory(${PROJECT_SOURCE_DIR}/app SRCS)
 aux_source_directory(${PROJECT_SOURCE_DIR}/src SRCS)
 
-message(STATUS "SRCS: " ${SRCS})
-
 # build target
 add_executable(sample ${SRCS})
